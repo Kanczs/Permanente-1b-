@@ -1,8 +1,8 @@
-x = int(input("Ingrese su clave"))
+          x = int(input("Ingrese su clave"))
 
-if x == 1313:
+          if x == 1313:
 
-a = 1000
+          a = 1000
 
 a es la variable que esta representando al saldo
 
