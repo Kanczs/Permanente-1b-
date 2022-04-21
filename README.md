@@ -1,3 +1,8 @@
+ Permanente 1b Trabajo realizado por:
+ 
+ Kelvin Andreé Caya Zeballos
+          
+          
           x = int(input("Ingrese su clave"))
 
           if x == 1313:
